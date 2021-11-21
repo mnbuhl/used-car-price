@@ -608,7 +608,6 @@ Mahindra,2016,101000,Diesel,Manual,Individual,First Owner,6.0,16.55,2498,105.0,2
 Mahindra,2010,168000,Diesel,Manual,Individual,First Owner,7.0,14.0,2498,112.0,260.0,229999
 Mahindra,2010,168000,Diesel,Manual,Individual,First Owner,7.0,14.0,2498,112.0,260.0,229999
 Maruti,2011,40000,Petrol,Manual,Individual,First Owner,5.0,18.9,998,67.1,90.0,270000
-Tata,2009,28900,Petrol,Manual,Individual,Second Owner,5.0,0.0,1172,65.0,96.11,135000
 Maruti,2012,20000,Petrol,Manual,Individual,First Owner,5.0,18.9,998,67.1,90.0,275000
 Jaguar,2017,9000,Diesel,Automatic,Dealer,First Owner,5.0,13.6,1999,177.0,430.0,2625000
 Jaguar,2017,45000,Diesel,Automatic,Dealer,First Owner,5.0,19.33,1999,177.0,430.0,3200000
@@ -738,7 +737,6 @@ Mahindra,2014,90000,Diesel,Manual,Individual,Second Owner,7.0,15.1,2179,140.0,33
 Chevrolet,2008,70000,Petrol,Manual,Individual,Second Owner,5.0,15.26,1150,74.9,110.0,80000
 Mahindra,2009,120000,Diesel,Manual,Individual,First Owner,7.0,13.6,2523,63.0,180.0,290000
 Mahindra,2006,120000,Diesel,Manual,Individual,Second Owner,8.0,10.5,2179,120.0,290.0,220000
-Hyundai,2009,90000,Petrol,Manual,Individual,Second Owner,5.0,0.0,1086,62.0,96.1,120000
 Datsun,2017,80000,Petrol,Manual,Individual,First Owner,5.0,22.7,799,53.0,72.0,229999
 Mahindra,2003,132478,Diesel,Manual,Individual,Second Owner,7.0,13.6,2523,63.0,180.0,150000
 Maruti,2014,45000,Petrol,Manual,Individual,First Owner,5.0,19.1,1197,85.8,114.0,500000
@@ -1560,7 +1558,6 @@ Maruti,2015,25000,Petrol,Manual,Individual,Second Owner,5.0,20.85,1197,83.14,115
 Hyundai,2015,100000,Petrol,Automatic,Individual,First Owner,5.0,16.9,1197,81.86,113.75,400000
 Maruti,2015,110000,Diesel,Manual,Individual,First Owner,5.0,26.59,1248,74.0,190.0,470000
 Nissan,2015,60000,Diesel,Manual,Individual,Third Owner,5.0,20.45,1461,83.8,200.0,480000
-Hyundai,2008,128000,Petrol,Manual,Individual,First Owner,5.0,0.0,1086,62.0,96.1,105000
 Tata,2017,120000,Diesel,Manual,Individual,First Owner,5.0,27.28,1047,69.0,140.0,325000
 Hyundai,2020,5000,Petrol,Automatic,Individual,First Owner,5.0,20.7,1197,81.86,113.75,675000
 Hyundai,2009,90000,Petrol,Manual,Individual,Second Owner,5.0,20.36,1197,78.9,111.8,170000
@@ -1585,7 +1582,6 @@ Maruti,2015,110000,Diesel,Manual,Individual,Third Owner,7.0,20.77,1248,88.76,200
 Hyundai,2015,48000,Diesel,Manual,Individual,Second Owner,5.0,19.67,1582,126.2,259.9,1300000
 Volkswagen,2016,97000,Diesel,Automatic,Individual,First Owner,5.0,16.96,1968,138.03,320.0,1350000
 Volkswagen,2016,60000,Diesel,Automatic,Individual,First Owner,5.0,22.15,1498,108.6,250.0,1000000
-Mercedes-Benz,2011,110000,Diesel,Automatic,Individual,Third Owner,5.0,0.0,2987,165.0,510.0,1700000
 Toyota,2018,12800,Petrol,Automatic,Individual,First Owner,5.0,17.8,1496,105.5,140.0,1080000
 Hyundai,2012,40000,Petrol,Manual,Individual,First Owner,5.0,21.1,814,55.2,74.5,170000
 Maruti,2017,49000,Diesel,Manual,Individual,First Owner,5.0,28.4,1248,74.0,190.0,610000
@@ -2022,7 +2018,6 @@ Volkswagen,2013,80000,Diesel,Manual,Individual,First Owner,5.0,22.07,1199,73.9,1
 Honda,2005,80000,Petrol,Automatic,Individual,Second Owner,5.0,9.0,2997,218.0,196.0,285000
 Audi,2012,70000,Diesel,Automatic,Individual,First Owner,7.0,12.07,2967,241.4,550.0,1850000
 Maruti,2017,51777,Diesel,Manual,Dealer,First Owner,5.0,24.3,1248,88.5,200.0,750000
-Land,2013,64788,Diesel,Automatic,Dealer,First Owner,5.0,0.0,2179,115.0,400.0,1650000
 Honda,2018,20000,Petrol,Manual,Individual,First Owner,5.0,19.5,1199,88.76,110.0,600000
 Volkswagen,2018,19000,Petrol,Manual,Individual,First Owner,5.0,18.78,999,75.0,95.0,565000
 Daewoo,2000,46951,Petrol,Manual,Individual,First Owner,5.0,18.5,796,53.0,71.0,86000
@@ -2237,7 +2232,6 @@ Hyundai,2013,43000,Petrol,Manual,Individual,Second Owner,5.0,18.5,1197,82.85,113
 Hyundai,2013,50000,Diesel,Manual,Individual,First Owner,5.0,23.5,1396,88.7,219.9,550000
 Maruti,2006,90000,Petrol,Manual,Individual,Second Owner,5.0,18.9,998,67.0,90.0,120000
 Mahindra,2012,100000,Diesel,Manual,Individual,Second Owner,8.0,14.0,2498,112.0,260.0,409999
-Hyundai,2010,80000,Petrol,Manual,Individual,Second Owner,5.0,0.0,1086,62.1,96.1,110000
 Mahindra,2012,120000,Diesel,Manual,Individual,First Owner,7.0,15.96,2523,62.1,195.0,450000
 Maruti,2019,5000,Petrol,Manual,Individual,First Owner,5.0,21.21,1197,81.8,113.0,610000
 Ford,2016,68609,Diesel,Manual,Dealer,First Owner,5.0,22.7,1498,89.84,204.0,515000
@@ -2566,7 +2560,6 @@ Ford,2015,30000,Petrol,Automatic,Individual,First Owner,5.0,15.63,1499,110.4,140
 BMW,2007,60000,Diesel,Automatic,Individual,Second Owner,5.0,14.49,2993,258.0,560.0,750000
 Chevrolet,2010,100000,Petrol,Manual,Individual,Second Owner,5.0,18.0,995,62.0,90.3,140000
 Maruti,2016,40000,Petrol,Manual,Individual,First Owner,5.0,22.74,796,47.3,69.0,220000
-Hyundai,2013,15000,Petrol,Manual,Individual,First Owner,5.0,0.0,1086,62.1,96.1,184000
 Hyundai,2017,50000,Petrol,Manual,Individual,Second Owner,5.0,18.6,1197,81.83,114.7,440000
 Hyundai,2017,80000,Diesel,Manual,Individual,First Owner,5.0,21.19,1396,88.73,220.0,650000
 Mahindra,2017,50000,Diesel,Automatic,Individual,First Owner,7.0,18.49,1493,100.0,230.0,660000
@@ -4133,7 +4126,6 @@ Maruti,2015,114000,Diesel,Manual,Dealer,First Owner,5.0,25.2,1248,73.94,190.0,56
 Skoda,2017,33000,Petrol,Automatic,Dealer,Second Owner,5.0,14.7,1798,177.5,250.0,1600000
 Hyundai,2014,160000,Diesel,Manual,Dealer,Third Owner,5.0,24.0,1120,70.0,160.0,395000
 Hyundai,2013,101000,Diesel,Manual,Dealer,First Owner,5.0,21.9,1396,88.76,219.6,425000
-Volkswagen,2019,5400,Diesel,Manual,Dealer,Test Drive Car,5.0,22.27,1498,108.6,250.0,1350000
 Hyundai,2016,45000,Diesel,Automatic,Dealer,Second Owner,5.0,16.38,1995,183.0,400.0,1950000
 Renault,2018,31000,Petrol,Automatic,Dealer,First Owner,5.0,24.04,999,67.0,91.0,535000
 Renault,2018,31000,Petrol,Manual,Dealer,First Owner,5.0,23.01,999,67.0,91.0,500000
@@ -4269,7 +4261,6 @@ Maruti,2015,110000,Diesel,Manual,Individual,Third Owner,7.0,20.77,1248,88.76,200
 Hyundai,2015,48000,Diesel,Manual,Individual,Second Owner,5.0,19.67,1582,126.2,259.9,1300000
 Volkswagen,2016,97000,Diesel,Automatic,Individual,First Owner,5.0,16.96,1968,138.03,320.0,1350000
 Volkswagen,2016,60000,Diesel,Automatic,Individual,First Owner,5.0,22.15,1498,108.6,250.0,1000000
-Mercedes-Benz,2011,110000,Diesel,Automatic,Individual,Third Owner,5.0,0.0,2987,165.0,510.0,1700000
 Toyota,2018,12800,Petrol,Automatic,Individual,First Owner,5.0,17.8,1496,105.5,140.0,1080000
 Hyundai,2012,40000,Petrol,Manual,Individual,First Owner,5.0,21.1,814,55.2,74.5,170000
 Maruti,2017,49000,Diesel,Manual,Individual,First Owner,5.0,28.4,1248,74.0,190.0,610000
@@ -4977,7 +4968,6 @@ Hyundai,2013,80000,Diesel,Manual,Individual,Second Owner,5.0,22.32,1582,126.32,2
 Hyundai,2010,60000,Petrol,Manual,Individual,First Owner,5.0,20.36,1197,78.9,111.7,260000
 Volkswagen,2014,110000,Diesel,Manual,Individual,Second Owner,5.0,20.14,1498,88.8,230.0,400000
 Hyundai,2017,70000,Diesel,Manual,Individual,Second Owner,5.0,22.54,1396,88.73,219.7,575000
-Hyundai,2008,40000,Petrol,Manual,Individual,First Owner,5.0,0.0,1086,62.0,96.1,175000
 Volkswagen,2012,95000,Diesel,Manual,Individual,First Owner,5.0,19.7,1598,103.6,250.0,400000
 Mahindra,2011,200000,Diesel,Manual,Individual,Second Owner,7.0,13.6,2523,63.0,180.0,350000
 Maruti,2015,30000,Diesel,Manual,Individual,First Owner,5.0,25.2,1248,74.0,190.0,484999
@@ -5504,10 +5494,8 @@ Volkswagen,2019,10000,Petrol,Manual,Individual,First Owner,5.0,18.78,999,75.0,95
 Maruti,2012,140000,Diesel,Manual,Individual,First Owner,7.0,20.77,1248,88.76,200.0,350000
 Hyundai,2019,19000,Petrol,Manual,Individual,First Owner,5.0,18.6,1197,81.86,117.0,700000
 Maruti,2017,44600,Diesel,Manual,Dealer,First Owner,7.0,24.52,1248,88.5,200.0,849000
-Volkswagen,2014,28080,Petrol,Automatic,Dealer,First Owner,5.0,0.0,1197,103.25,175.0,574000
 Hyundai,2014,28800,Petrol,Manual,Dealer,First Owner,5.0,18.6,1197,81.83,114.7,484999
 Renault,2018,21900,Petrol,Manual,Dealer,First Owner,5.0,20.71,799,53.26,72.0,360000
-Volkswagen,2014,28100,Petrol,Automatic,Dealer,First Owner,5.0,0.0,1197,103.25,175.0,575000
 Honda,2014,110000,Diesel,Manual,Individual,Second Owner,5.0,26.0,1498,98.6,200.0,550000
 Hyundai,2016,100000,Diesel,Manual,Individual,First Owner,5.0,22.54,1396,88.73,219.7,700000
 Maruti,2019,7673,Diesel,Automatic,Individual,First Owner,5.0,28.4,1248,74.02,190.0,825000
@@ -5560,7 +5548,6 @@ Maruti,2016,37000,Petrol,Manual,Individual,First Owner,5.0,20.85,1197,83.14,115.
 Mahindra,2018,20000,Diesel,Automatic,Individual,First Owner,7.0,16.0,2179,138.0,330.0,1500000
 Toyota,2017,35000,Petrol,Manual,Individual,First Owner,5.0,17.71,1197,78.9,104.0,549000
 Hyundai,2016,50000,Petrol,Manual,Individual,First Owner,5.0,18.6,1197,81.83,114.7,630000
-Mahindra,2020,5000,Diesel,Manual,Individual,First Owner,2.0,0.0,2523,70.0,200.0,679000
 Hyundai,2017,47000,Diesel,Manual,Individual,Second Owner,5.0,19.67,1582,126.2,259.9,1125000
 Maruti,2017,71000,Diesel,Manual,Individual,First Owner,5.0,27.39,1248,74.0,190.0,680000
 Honda,2017,50000,Diesel,Manual,Individual,First Owner,5.0,25.6,1498,97.9,200.0,1050000
@@ -5870,7 +5857,6 @@ Tata,2010,120000,Diesel,Manual,Individual,First Owner,5.0,21.12,1248,88.8,200.0,
 Toyota,2014,60000,Diesel,Automatic,Individual,First Owner,7.0,11.0,2982,170.3,410.0,3500000
 Honda,2014,80000,Diesel,Manual,Individual,Second Owner,5.0,25.1,1498,98.6,200.0,750000
 Chevrolet,2011,120000,Diesel,Manual,Individual,Second Owner,10.0,12.2,2499,80.0,186.33,350000
-Honda,2019,24857,Petrol,Automatic,Dealer,Test Drive Car,5.0,16.5,1799,139.46,174.0,2000000
 Hyundai,2017,26442,Petrol,Manual,Individual,First Owner,5.0,20.3,998,68.05,94.14,270000
 Maruti,2017,35000,Petrol,Manual,Individual,First Owner,7.0,17.5,1373,91.1,130.0,700000
 Maruti,2010,28000,Petrol,Manual,Individual,Second Owner,5.0,19.7,796,46.3,62.0,130000
@@ -6172,7 +6158,6 @@ Hyundai,2018,25000,Petrol,Automatic,Individual,Second Owner,5.0,17.4,1197,81.86,
 Renault,2014,80000,Diesel,Manual,Individual,First Owner,5.0,19.01,1461,108.45,248.0,650000
 Tata,2014,50000,Petrol,Manual,Individual,Second Owner,4.0,25.4,624,37.5,51.0,95000
 Mahindra,2015,56975,Diesel,Manual,Individual,First Owner,7.0,16.0,2179,140.0,330.0,1147000
-Hyundai,2010,110000,Petrol,Manual,Individual,First Owner,5.0,0.0,1086,62.0,96.1,150000
 Maruti,2008,80000,Petrol,Manual,Individual,Third Owner,5.0,19.7,796,46.3,62.0,120000
 Ford,2010,187000,Diesel,Manual,Dealer,Second Owner,5.0,17.8,1399,68.0,159.85,180000
 Ford,2013,69000,Diesel,Manual,Dealer,First Owner,5.0,18.6,1388,67.0,160.0,325000
@@ -6259,7 +6244,6 @@ Tata,2018,40000,Petrol,Manual,Individual,First Owner,5.0,23.84,1199,84.0,114.0,4
 Mahindra,2013,91000,Diesel,Manual,Individual,First Owner,7.0,15.1,2179,140.0,330.0,600000
 Hyundai,2008,80000,Petrol,Manual,Individual,Third Owner,5.0,17.8,1086,63.0,96.11,110000
 Maruti,2007,73257,Petrol,Manual,Individual,First Owner,4.0,16.1,796,37.0,59.0,45000
-Mahindra,2019,80000,Diesel,Manual,Individual,First Owner,2.0,0.0,2523,70.0,200.0,722000
 Tata,2020,15000,Petrol,Manual,Individual,First Owner,5.0,23.84,1199,83.83,114.0,500000
 Hyundai,2007,110000,Diesel,Manual,Individual,Second Owner,5.0,18.1,1493,110.0,235.36,250000
 Skoda,2018,40000,Diesel,Manual,Individual,First Owner,5.0,21.13,1498,108.6,250.0,950000
@@ -6445,7 +6429,6 @@ Toyota,2017,23000,Diesel,Manual,Dealer,First Owner,7.0,13.68,2393,147.8,343.0,17
 Honda,2015,128000,Diesel,Manual,Dealer,First Owner,5.0,26.0,1498,98.6,200.0,600000
 Volkswagen,2015,33000,Diesel,Manual,Individual,First Owner,5.0,20.14,1498,88.8,230.0,620000
 Maruti,2009,70000,Petrol,Manual,Individual,Second Owner,5.0,19.7,796,46.3,62.0,150000
-Hyundai,2011,40000,Petrol,Manual,Individual,Fourth & Above Owner,5.0,0.0,1086,62.0,96.1,150000
 Tata,2008,40000,Petrol,Manual,Individual,Fourth & Above Owner,5.0,12.85,1396,99.6,124.0,135000
 Tata,2011,80000,Diesel,Manual,Individual,First Owner,5.0,17.0,1405,71.0,135.0,200000
 Maruti,2015,70000,Diesel,Manual,Individual,First Owner,5.0,26.21,1248,88.5,200.0,730000
@@ -6614,7 +6597,6 @@ Fiat,2009,55000,Petrol,Manual,Individual,First Owner,5.0,14.6,1368,88.7,115.0,15
 Toyota,2020,40000,Petrol,Automatic,Individual,First Owner,8.0,10.75,2694,163.7,245.0,1500000
 Maruti,2011,70000,Petrol,Manual,Individual,Second Owner,5.0,14.0,796,35.0,59.82,130000
 Maruti,2013,80000,Petrol,Manual,Individual,Second Owner,5.0,22.74,796,47.3,69.0,185000
-Hyundai,2010,80000,Petrol,Manual,Individual,Second Owner,5.0,0.0,1086,62.1,96.1,110000
 Mahindra,2012,120000,Diesel,Manual,Individual,First Owner,7.0,15.96,2523,62.1,195.0,450000
 Hyundai,2018,20000,Petrol,Manual,Individual,Second Owner,5.0,18.9,1197,81.86,113.75,500000
 Ford,2017,31596,Petrol,Manual,Dealer,First Owner,5.0,17.0,1497,121.36,150.0,570000
@@ -6933,7 +6915,6 @@ Renault,2017,34000,Diesel,Manual,Dealer,First Owner,8.0,21.04,1461,83.8,200.0,69
 Hyundai,2018,31000,Petrol,Automatic,Dealer,First Owner,5.0,17.4,1197,81.86,117.0,730000
 Chevrolet,2016,46000,Diesel,Automatic,Dealer,Second Owner,7.0,11.45,2776,197.2,500.0,1295000
 Isuzu,2016,121000,Diesel,Automatic,Dealer,First Owner,7.0,12.08,2999,161.0,333.0,1160000
-Mercedes-Benz,2017,60000,Diesel,Automatic,Dealer,First Owner,5.0,0.0,1950,194.0,400.0,3300000
 Hyundai,2018,7000,Petrol,Manual,Dealer,First Owner,5.0,20.3,1086,68.0,99.0,540000
 Maruti,2016,10000,Petrol,Automatic,Dealer,First Owner,5.0,23.1,998,67.04,90.0,434999
 Mercedes-Benz,2018,6000,Diesel,Automatic,Dealer,First Owner,5.0,17.9,2143,170.0,400.0,4600000
